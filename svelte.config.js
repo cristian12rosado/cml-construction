@@ -8,9 +8,6 @@ const config = {
 		adapter: adapter(),
 		paths: {
 			base: '/cml-construction'
-		},
-		prerender: {
-			entries: ['*']
 		}
 	}
 };
